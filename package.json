@@ -1,0 +1,23 @@
+{
+  "name": "vsts-nomad-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinhong-/vsts-nomad-tasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinhong-/vsts-nomad-tasks/issues"
+  },
+  "homepage": "https://github.com/jinhong-/vsts-nomad-tasks#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "vsts-task-lib": "^2.0.5"
+  }
+}
